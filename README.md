@@ -1,2 +1,2 @@
 # TodoProject
-js
+Develop a task list application.
